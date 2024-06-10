@@ -51,6 +51,7 @@ def main():
             list_department_employees()
         else:
             print("Invalid choice")
+            
 
 
 def menu():
